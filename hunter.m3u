@@ -1,7 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1, ULUSAL KANAL
+https://streams.uzunmuhalefet.com/stream/e8b425ad-571d-475d-a657-37bca8985836.m3u8
+
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-1-tr.png" group-title="Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://dsmart-static-v2.ercdn.net/content/l/MK/11888/Thumbnail.png" group-title="Spor",TRT Spor
+https://tv-trtspor-esdai.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://cdn.technettv.com/channel/20315/logo_256_1699961575.png" group-title="Ulusal",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
@@ -30,7 +36,7 @@ https://sktiroloji.denek1544.workers.dev/izle/foxtv.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://img.dsmartgo.com.tr/content/a/WI/13727/Thumbnail.png" group-title="Ulusal",TV8
 https://ibneliksizdemarka.testworker0y.workers.dev/channel/VHY4IHwgQw==
 
-#EXTINF:-1 tvg-logo="https://img.dsmartgo.com.tr/content/j/3s/13867/Thumbnail.png" group-title="Ulusal,TV8 5
+#EXTINF:-1 tvg-logo="https://img.dsmartgo.com.tr/content/j/3s/13867/Thumbnail.png" group-title="Ulusal",TV8 5
 https://ibneliksizdemarka.testworker0y.workers.dev/channel/VHY4LjUgfCBB
 
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c1414195-4807-4bbc-95b5-5f7c4c639b02.png" group-title="Ulusal",Kanal 7
@@ -117,8 +123,7 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Ciftci.tr" tvg-logo="https://i.imgur.com/CLzP4vL.png" group-title="Eglence",Ciftci TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="Spor",TRT Spor
-http://162.212.179.33:80/dvrfl05/gin-trtspor/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png" group-title="Spor",TRT Spor Yildiz
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
