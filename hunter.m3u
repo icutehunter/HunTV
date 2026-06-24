@@ -55,7 +55,7 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="Haber",Sozcu TV
-http://87.121.104.29:1071/sozcu/stream.m3u8?token=400f59705e433fdea22a70a23c0ed815
+https://boncuktvvv.etrafimi-cakal-sarmis.workers.dev/szctv
 
 #EXTINF:-1 tvg-id="halktv.tr" tvg-logo="https://img.dsmartgo.com.tr/content/S/_q/13566/Thumbnail.png" group-title="Haber",Halk Tv
 https://guldurmeyinbeniitsurusu.testworker0y.workers.dev/channel/SGFsayBUVg==
@@ -79,13 +79,13 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 
 #EXTINF:-1 tvg-id="TVNET.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Tvnet_logo.png" group-title="Haber",TVNET
-https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+https://tvnet-live.lg.mncdn.com/tvnet/tvnet/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="https://img.dsmartgo.com.tr/content/d/R2/13858/Thumbnail.png" group-title="Haber",Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 
 #EXTINF:-1 tvg-id="24TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/a/a6/20191109190807%2124_TV_logosu.png" group-title="Haber",24 TV
-https://tvnet-live.lg.mncdn.com/tvnet/tvnet/chunklist.m3u8
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 
 #EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/9a5263de-ad43-49c9-8ad4-dc38e252873c.png" group-title="Haber",Benguturk TV
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
@@ -109,19 +109,19 @@ https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://d2v9mhsiek5lbq.cloudfront.net/eyJidWNrZXQiOiJsb21hLW1lZGlhLWRlIiwia2V5IjoiZG1heC1pbWFnZS1lODg0NmVhNy02YWNkLTRiMjYtOTMxMi1kYmQ1Y2EyMjk0OGEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE5MjAsImhlaWdodCI6MTA4MH0sImpwZWciOnsicXVhbGl0eSI6NTUsInByb2dyZXNzaXZlIjp0cnVlfX19" group-title="Eglence",DMAX
-https://dogus.daioncdn.net/dmax/dmax.m3u8?ce\u003d3\u0026app\u003d5a02c599-d17e-4982-9b04-090934d51af7
+https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=dUtLcFk4TkM1YjBOWlFIa1huL0UrMUYvcjhEcStnVU1TZUpsOVo5QXV4ST0=.m3u8
 
 #EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/tlc-logo.png" group-title="Eglence",TLC
-https://dogus.daioncdn.net/tlc/tlc.m3u8?ce\u003d3\u0026app\u003d1aca0aa1-06e3-41ff-a8e5-38d7df475469
+https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&token=V1JHMUZBdGFOV0k2d2szUm5hVzA4RFdmejliTEVnQkZEQWNEN29qNzJ6Yz0=.m3u8
 
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png" group-title="Eglence",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 
-#EXTINF:-1 tvg-id="sifirtvyt" tvg-name="Sıfır Tv - YT" tvg-logo="https://yt3.googleusercontent.com/uISpOU-Gdf_TWXZCyvQAFn_LeJhILd_84H30Fqpk4-fMTREWU4VsTOLAch4YBzSBxmoFxGPO=s160-c-k-c0x00ffffff-no-rj" group-title="Spor",Sıfır Tv - YT
-http://87.121.104.29:1071/sifirtvyt/stream.m3u8?token=400f59705e433fdea22a70a23c0ed815
+#EXTINF:-1 tvg-id="sifirtv.tr" tvg-logo="https://yt3.googleusercontent.com/uISpOU-Gdf_TWXZCyvQAFn_LeJhILd_84H30Fqpk4-fMTREWU4VsTOLAch4YBzSBxmoFxGPO=s160-c-k-c0x00ffffff-no-rj" group-title="Spor",Sıfır Tv
+http://176.65.146.42:6003/play/a013/index.m3u8
 
-#EXTINF:-1 tvg-id="bshaberyt" tvg-name="Bein Sports Haber" tvg-logo="https://yt3.googleusercontent.com/_vs7K9u3pS-C7flO0cVIkxqgLsIkjElGL6izCYFzI0COAYKda5g2J9DRB9-EHsfTXwA_ayi72g=s160-c-k-c0x00ffffff-no-rj" group-title="Spor",Bein Sports Haber
-http://87.121.104.29:1071/bshaberyt/stream.m3u8?token=400f59705e433fdea22a70a23c0ed815
+#EXTINF:-1 tvg-id="bshaber.tr" tvg-logo="https://yt3.googleusercontent.com/_vs7K9u3pS-C7flO0cVIkxqgLsIkjElGL6izCYFzI0COAYKda5g2J9DRB9-EHsfTXwA_ayi72g=s160-c-k-c0x00ffffff-no-rj" group-title="Spor",Bein Sports Haber
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1782331143/ei/p-I7ateuB_O06dsPg7DjyAQ/ip/87.121.104.29/id/i7UpPgxfZZ8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-gxuo03g-ig3l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ARmQxEVo2R-f5Te5hedr1IWattOjgUi7ZtWFqle5mL6UwtzLVrysjelzo7eJ3vaxaLKzN7Mytc3UyBc6/spc/SQ-umoU2Mrxj47ZmyCC0QA6yJpkqZ9dPhA8UbfyKYZobu8g-3jnXSytT7IE75enW/vprv/1/reg/0/playlist_type/DVR/met/1782309543,/mh/FN/mm/44/mn/sn-gxuo03g-ig3l/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682,51987687/mt/1782309160/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgYbnpwUQIcWRXfmDtIfoRcsNiBjBBzykcg6NC8MeNXXwCIFx-zhS0FLdzBXF8P61WfT06GEI2tRGQzPzF-4hLpY8L/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhALyXL-aeH-JoSFGqEcNlLllJzTj5QTw9fNFhW7Ae1jGpAiEA2Ty92ke6rx89Y8Oy0uEg-gw580GCFUpy9_LGPR5kLjk%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="asporyt" tvg-name="A Spor" tvg-logo="https://yt3.googleusercontent.com/43xh3uEvLl7kAKca-zFauATzT3spixqjb9v-cYBVxBLzbcbVj42iV3Msbpd5zXwN_w7jXdnzFq8=s160-c-k-c0x00ffffff-no-rj" group-title="Spor",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
