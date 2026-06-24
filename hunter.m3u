@@ -22,7 +22,7 @@ https://sktiroloji.denek1544.workers.dev/izle/kanald-112.m3u8
 https://ibneliksizdemarka.testworker0y.workers.dev/channel/U3RhciBUViB8IEE=
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/3840px-Atv_logo_2010.svg.png" group-title="Ulusal",ATV
-https://208.79.153.167/inim03/live1/atv-tv/playlist.m3u8
+https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0&st=aPc08MDq55Exr8nCu28qAw&e=1782358244&ppid=8be95d43ad5f8dfb174a145389f38ceb
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Show_TV_logo.svg/250px-Show_TV_logo.svg.png" group-title="Ulusal",Show TV
 https://sktiroloji.denek1544.workers.dev/izle/showtv.m3u8
@@ -105,10 +105,13 @@ https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="https://cdn.technettv.com/channel/20322/logo_256_1699957451.png" group-title="Ekonomi",Bloomberg HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 
+#EXTINF:-1 tvg-id="apara.tr" tvg-logo="https://yt3.googleusercontent.com/XJtyMUH7ikXxeg2nrhjVb0k9LbpdqimTV9QawOxlQipdDFYe0cy6kdFZeFqzpeqPCyOkJCMM_w=s160-c-k-c0x00ffffff-no-rj" group-title="Ekonomi",APara
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=6C5S0SGuS_aHv130fJq_CA&e=1782358139
+
 #EXTINF:-1 tvg-id="TrtWorld.tr" tvg-name="TRT World" tvg-logo="https://img.dsmartgo.com.tr/content/Z/NK/12176/Thumbnail.png" group-title="Ulusal",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="Belgesel",TRT Belgesel
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/trt-belgesel-tr.png" group-title="Belgesel",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="Ciftci.tr" tvg-logo="https://i.imgur.com/CLzP4vL.png" group-title="Eglence",Ciftci TV
@@ -120,7 +123,7 @@ https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-09093
 #EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/tlc-logo.png" group-title="Eglence",TLC
 https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&token=V1JHMUZBdGFOV0k2d2szUm5hVzA4RFdmejliTEVnQkZEQWNEN29qNzJ6Yz0=.m3u8
 
-#EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png" group-title="Eglence",A2
+#EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="https://play-lh.googleusercontent.com/LVL5-SnQukpdberlLr45C0QuoDe8dL1OFhzWoZhkEMNRBzd38udCewvbz8K2pDK_j7wkakJ-xoWfUZLOhvuU" group-title="Eglence",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 
 #EXTINF:-1 tvg-id="bshaber.tr" tvg-logo="https://yt3.googleusercontent.com/_vs7K9u3pS-C7flO0cVIkxqgLsIkjElGL6izCYFzI0COAYKda5g2J9DRB9-EHsfTXwA_ayi72g=s160-c-k-c0x00ffffff-no-rj" group-title="Spor",Bein Sports Haber
