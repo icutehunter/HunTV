@@ -15,8 +15,8 @@ https://fbtv.fenerbahce.org/fenerbahcetv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",Star TV
-https://yayin2.canlitv.fun/live/startv.stream/chunklist_w672701542.m3u8
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://images.seeklogo.com/logo-png/30/2/star-tv-logo-png_seeklogo-309642.png" group-title="Ulusal",Star TV
+https://dogus.daioncdn.net/startv/startv.m3u8?app\u003dstartv_web\u0026ce\u003d3
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
