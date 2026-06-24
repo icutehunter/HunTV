@@ -12,7 +12,7 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/42f616f7-bcad-4967-8409-9577b9c14319.png" group-title="Spor",FB TV
 https://fbtv.fenerbahce.org/fenerbahcetv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://imgur.com/9o1atM6" group-title="Ulusal",Kanal D
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="Ulusal",Kanal D
 https://sktiroloji.denek1544.workers.dev/izle/kanald-112.m3u8
 
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://images.seeklogo.com/logo-png/30/2/star-tv-logo-png_seeklogo-309642.png" group-title="Ulusal",Star TV
@@ -24,11 +24,14 @@ https://sktiroloji.denek1544.workers.dev/izle/atv-110.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV
 https://sktiroloji.denek1544.workers.dev/izle/showtv.m3u8
 
-#EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",Now TV
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 tvg-id="Now.tr" tvg-logo="https://i.ibb.co/rZhQ082/NOW-TV-Turkey-wordmark-red.png" group-title="Ulusal",Now TV
+https://sktiroloji.denek1544.workers.dev/izle/foxtv.m3u8
 
-#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal",TV8
-https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://img.dsmartgo.com.tr/content/a/WI/13727/Thumbnail.png" group-title="Ulusal",TV8
+https://ibneliksizdemarka.testworker0y.workers.dev/channel/VHY4IHwgQw==
+
+#EXTINF:-1 tvg-logo="https://img.dsmartgo.com.tr/content/j/3s/13867/Thumbnail.png" group-title="Ulusal,TV8 5
+https://ibneliksizdemarka.testworker0y.workers.dev/channel/VHY4LjUgfCBB
 
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png" group-title="Ulusal",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
@@ -50,9 +53,6 @@ http://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png" group-title="Eglence",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" group-title="Ulusal,TV8 5
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
 
 #EXTINF:-1 tvg-id="CNN.TÜRK.HD.tr" tvg-name="CNN TURK FHD" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="TR ∞ HABER",CNN TURK FHD
 https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=8oPhb2GVI4gT0DQAyAB5EA&e=1782240660
