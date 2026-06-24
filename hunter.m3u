@@ -22,7 +22,7 @@ https://sktiroloji.denek1544.workers.dev/izle/kanald-112.m3u8
 https://ibneliksizdemarka.testworker0y.workers.dev/channel/U3RhciBUViB8IEE=
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/3840px-Atv_logo_2010.svg.png" group-title="Ulusal",ATV
-https://sktiroloji.denek1544.workers.dev/izle/atv-110.m3u8
+https://208.79.153.167/inim03/live1/atv-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Show_TV_logo.svg/250px-Show_TV_logo.svg.png" group-title="Ulusal",Show TV
 https://sktiroloji.denek1544.workers.dev/izle/showtv.m3u8
@@ -108,6 +108,12 @@ https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-id="TrtWorld.tr" tvg-name="TRT World" tvg-logo="https://img.dsmartgo.com.tr/content/Z/NK/12176/Thumbnail.png" group-title="Ulusal",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="Belgesel",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="Ciftci.tr" tvg-logo="https://i.imgur.com/CLzP4vL.png" group-title="Eglence",Ciftci TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://d2v9mhsiek5lbq.cloudfront.net/eyJidWNrZXQiOiJsb21hLW1lZGlhLWRlIiwia2V5IjoiZG1heC1pbWFnZS1lODg0NmVhNy02YWNkLTRiMjYtOTMxMi1kYmQ1Y2EyMjk0OGEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE5MjAsImhlaWdodCI6MTA4MH0sImpwZWciOnsicXVhbGl0eSI6NTUsInByb2dyZXNzaXZlIjp0cnVlfX19" group-title="Eglence",DMAX
 https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=dUtLcFk4TkM1YjBOWlFIa1huL0UrMUYvcjhEcStnVU1TZUpsOVo5QXV4ST0=.m3u8
 
@@ -117,83 +123,29 @@ https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df4
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png" group-title="Eglence",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 
-#EXTINF:-1 tvg-id="sifirtv.tr" tvg-logo="https://yt3.googleusercontent.com/uISpOU-Gdf_TWXZCyvQAFn_LeJhILd_84H30Fqpk4-fMTREWU4VsTOLAch4YBzSBxmoFxGPO=s160-c-k-c0x00ffffff-no-rj" group-title="Spor",Sıfır Tv
-http://176.65.146.42:6003/play/a013/index.m3u8
-
 #EXTINF:-1 tvg-id="bshaber.tr" tvg-logo="https://yt3.googleusercontent.com/_vs7K9u3pS-C7flO0cVIkxqgLsIkjElGL6izCYFzI0COAYKda5g2J9DRB9-EHsfTXwA_ayi72g=s160-c-k-c0x00ffffff-no-rj" group-title="Spor",Bein Sports Haber
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1782331143/ei/p-I7ateuB_O06dsPg7DjyAQ/ip/87.121.104.29/id/i7UpPgxfZZ8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-gxuo03g-ig3l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ARmQxEVo2R-f5Te5hedr1IWattOjgUi7ZtWFqle5mL6UwtzLVrysjelzo7eJ3vaxaLKzN7Mytc3UyBc6/spc/SQ-umoU2Mrxj47ZmyCC0QA6yJpkqZ9dPhA8UbfyKYZobu8g-3jnXSytT7IE75enW/vprv/1/reg/0/playlist_type/DVR/met/1782309543,/mh/FN/mm/44/mn/sn-gxuo03g-ig3l/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682,51987687/mt/1782309160/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgYbnpwUQIcWRXfmDtIfoRcsNiBjBBzykcg6NC8MeNXXwCIFx-zhS0FLdzBXF8P61WfT06GEI2tRGQzPzF-4hLpY8L/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhALyXL-aeH-JoSFGqEcNlLllJzTj5QTw9fNFhW7Ae1jGpAiEA2Ty92ke6rx89Y8Oy0uEg-gw580GCFUpy9_LGPR5kLjk%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="sifirtv.tr" tvg-logo="https://yt3.googleusercontent.com/uISpOU-Gdf_TWXZCyvQAFn_LeJhILd_84H30Fqpk4-fMTREWU4VsTOLAch4YBzSBxmoFxGPO=s160-c-k-c0x00ffffff-no-rj" group-title="Spor",Sıfır Tv
+http://176.65.146.42:6003/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-id="asporyt" tvg-name="A Spor" tvg-logo="https://yt3.googleusercontent.com/43xh3uEvLl7kAKca-zFauATzT3spixqjb9v-cYBVxBLzbcbVj42iV3Msbpd5zXwN_w7jXdnzFq8=s160-c-k-c0x00ffffff-no-rj" group-title="Spor",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 
-#EXTINF:-1 tvg-id="nowsporyt" tvg-name="Now Spor" tvg-logo="https://yt3.googleusercontent.com/9_Eu0vg2etMgqBbXQKjOVfFxDnNEPB8nODaCszsmK6pTZHfyUrtuR_3UKI5Td2I8OrAFMTDJ3g=s160-c-k-c0x00ffffff-no-rj" group-title="Spor",Now Spor
-http://87.121.104.29:1071/nowsporyt/stream.m3u8?token=400f59705e433fdea22a70a23c0ed815
+#EXTINF:-1 tvg-id="nowsporyt" tvg-logo="https://yt3.googleusercontent.com/9_Eu0vg2etMgqBbXQKjOVfFxDnNEPB8nODaCszsmK6pTZHfyUrtuR_3UKI5Td2I8OrAFMTDJ3g=s160-c-k-c0x00ffffff-no-rj" group-title="Spor",Now Spor
+https://rr2---sn-gxuo03g-ig3l.googlevideo.com/videoplayback?expire=1782331242&ei=CeM7aomZOdTi6dsPh5mjuA8&ip=87.121.104.29&id=o-ACSOvuqjFXzZ5bh7KCnibuhcU8zt3duwUDYOe46boWCI&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=334&met=1782309641%2C&mh=AW&mm=31%2C29&mn=sn-gxuo03g-ig3l%2Csn-aigzrn7s&ms=au%2Crdu&mv=u&mvi=2&pl=24&rms=au%2Cau&bui=ARmQxEWtnTA5FObnt7HEGyED5veyhdY7b3cVJAXC7exBE6r6oUMaaYX7nq9ib6i4bJQg2y7QajkPOtoM&spc=SQ-umoIVf5pukRgIGCi4hjRKkaIeRw0v25OTQRyHZIkxU83rjJOy9U0a_0dSCySLrKw&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=133465433&ratebypass=yes&dur=3550.284&lmt=1767292965736975&mt=1782308966&fvip=4&fexp=51565115%2C51565682%2C51987687&c=ANDROID&txp=3309224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AHEqNM4wRAIgVQZ6f28c0GZfi4vHFpqzpokl67cfQp6kn9-SA8Wi-ikCIG9ERB2jA1Phou7dvFZvdDvL4kdm4qmYS3hbvz5ajMMg&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms&lsig=APaTxxMwRQIhAMeVi1xiavM7QP3UA9WV2_cfP5sma4sSkIRe-MCX5LNxAiB3qkEwFfCtrw66Lat6-_w2XL_WVIAN2M81w2AvQH-1wg%3D%3D
 
-#EXTINF:-1 tvg-id="noktatvyt" tvg-name="Nokta Tv" tvg-logo="https://yt3.googleusercontent.com/oLZ0KLVHtF1UseG3yVbRCzluCUlKJJuXRhi-Uyk8chVwfTVzb3omIci1Pvo07Fa2mYlH3tghFhg=s160-c-k-c0x00ffffff-no-rj" group-title="Spor",Nokta Tv
-http://87.121.104.29:1071/noktatvyt/stream.m3u8?token=400f59705e433fdea22a70a23c0ed815
+#EXTINF:-1 tvg-id="noktatvyt" tvg-logo="https://yt3.googleusercontent.com/oLZ0KLVHtF1UseG3yVbRCzluCUlKJJuXRhi-Uyk8chVwfTVzb3omIci1Pvo07Fa2mYlH3tghFhg=s160-c-k-c0x00ffffff-no-rj" group-title="Spor",Nokta Tv
+https://rr5---sn-4g5ednkk.googlevideo.com/videoplayback?expire=1782331299&ei=Q-M7atfdMpDU6dsPuKO4kQ8&ip=87.121.104.29&id=o-ANwQbq_hkXMAUPqenAdkvpKsV0f0IL4p9a4MxmocIt8y&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=310&rms=au%2Cau&bui=ARmQxEVV2_LZRYSp4gEb0nWB5U0NjeR4tz_LdXktxNTHI5yQO0gR8NpEq9wtmS6vyI3eGC4hxx2VEdVG&spc=SQ-umimhb5pPoqThZ9bmt8VtQ5m44TJp5vASUKuD-geesp1Rjwb--Jh-iJh0EeEw1Wc&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=32294179&ratebypass=yes&dur=526.210&lmt=1782307639992845&fexp=51565116,51565681,51987687,52017147&c=ANDROID&txp=3309224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AHEqNM4wRAIgCHE8ZOAJ3_ahnXq6mTnJTgrVezw8xN50qOqY-fCmT2ICIGrxLg_Jgcq8tK6MbOd9nGqUJYfnyp6R2TzQMhhwyU6_&cm2rm=sn-gxuo03g-ig3l7s,sn-nv4yyy7s&rrc=191,104,191&req_id=e017a2010187a3ee&rm=sn-aigesr7e&ipbypass=yes&redirect_counter=3&cms_redirect=yes&cmsv=e&met=1782311757,&mh=S3&mip=2a02:ff0:331c:2dbf:9545:5456:b732:896d&mm=34&mn=sn-4g5ednkk&ms=ltu&mt=1782310834&mv=m&mvi=5&pl=48&lsparams=cps,ipbypass,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRgIhAN2luK7ugy5pg0NlfqBwSBeD3h8wPivIw5b2WAdgzshKAiEAy06jrDAfnJjdum8cjr69MJgespOxI65HILuSLHGJcJA%3D
 
 #EXTINF:-1 tvg-id="klasmedyayt" tvg-name="Klas Medya" tvg-logo="https://yt3.googleusercontent.com/LCDFZ6yVKC5dZyxsv4zV7epE6e2kJheeptxzvlDtYsJ7zADsr9u8al-NAHctRaHlMp6OF29klJs=s160-c-k-c0x00ffffff-no-rj" group-title="Spor",Klas Medya
-http://87.121.104.29:1071/klasmedyayt/stream.m3u8?token=400f59705e433fdea22a70a23c0ed815
+https://rr5---sn-nv47lnly.googlevideo.com/videoplayback?expire=1782331341&ei=beM7aqPCD_uJ6dsPz-uY-QI&ip=87.121.104.29&id=o-AJPkXTD3hlJQZo6qmOjfWRISexU-Ioh4weMvA9eg1yf6&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=331&rms=au%2Cau&bui=ARmQxEW00-R_SCpxajq1SiYByyIZMBltK7NjljzoGjbYKNxMfQ1J_eRD8uIWwvsvLsHM6YxmOYvaWCXj&spc=SQ-ummEzZJSqgtWcTCWwWkeky5JulYOvTDKuE82tigAk6hWdDHg3YccB_I92FLGJdoU&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=157350256&ratebypass=yes&dur=3151.389&lmt=1781233221214421&fexp=51565116,51565682,51987687,52017147&c=ANDROID&txp=5438534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AHEqNM4wRQIhANQ_1ZJxbdCyBGa8iYSfrnQ46jK6TiuvsOvRNGWhkotsAiBr68MZ6IIN1R1Ham7FkJcrGvF5SIfcxl8mxBR7OjHpZQ%3D%3D&cm2rm=sn-gxuo03g-ig3l7e&rrc=191,104&req_id=2dda69527fb2a3ee&cmsv=e&redirect_counter=2&rm=sn-aigyyy7s&cms_redirect=yes&ipbypass=yes&met=1782311778,&mh=Sl&mip=2a02:ff0:331c:2dbf:9545:5456:b732:896d&mm=29&mn=sn-nv47lnly&ms=rdu&mt=1782311352&mv=m&mvi=5&pl=48&lsparams=cps,ipbypass,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRQIgGbafLzqatFvZ_jtZijx6nGqplwj4DVnpn4qJelEoJl4CIQCvQFRu5FE8mO8lAgJk6G1AzQvS7bUhpuTco2H3Us_eSQ%3D%3D
 
 #EXTINF:-1 tvg-id="htspor" tvg-name="HT Spor" tvg-logo="https://dsmart-static-v2.ercdn.net/content/u/S4/98405/Thumbnail.png" group-title="Spor",HT Spor
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web&ppid=5d62d17b5ac4942784d62ec466a08c1c
 
-#EXTINF:-1 tvg-id="trtspor" tvg-name="TRT Spor" tvg-logo="https://dsmart-static-v2.ercdn.net/content/l/MK/11888/Thumbnail.png" group-title="Spor",TRT Spor
-https://tv-trtspor-esdai.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-id="trtsporyildiz" tvg-name="TRT Spor Yıldız" tvg-logo="https://dsmart-static-v2.ercdn.net/content/h/NK/15953/Thumbnail.png" group-title="Spor",TRT Spor Yıldız
-https://trt.daioncdn.net/trtspor-yildiz/master.m3u8
-
-#EXTINF:-1 tvg-id="tjkyt" tvg-name="TJK TV - YT" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nHSKFStnIjdMil38RGvlbpMPATSHd7TjRgKRH88iEV5Y8=s160-c-k-c0x00ffffff-no-rj" group-title="Spor",TJK TV - YT
-http://87.121.104.29:1071/tjkyt/stream.m3u8?token=400f59705e433fdea22a70a23c0ed815
-
-#EXTINF:-1 tvg-id="tjkytCanlı" tvg-name="Tjk YT Canlı" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nHSKFStnIjdMil38RGvlbpMPATSHd7TjRgKRH88iEV5Y8=s160-c-k-c0x00ffffff-no-rj" group-title="Spor",Tjk YT Canlı
-http://87.121.104.29:1071/tjkyt/stream5.m3u8?token=400f59705e433fdea22a70a23c0ed815
-
-#EXTINF:-1 tvg-id="tjkytcanli2" tvg-name="TJK YT CANLI 2" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nHSKFStnIjdMil38RGvlbpMPATSHd7TjRgKRH88iEV5Y8=s160-c-k-c0x00ffffff-no-rj" group-title="Spor",TJK YT CANLI 2
-http://87.121.104.29:1071/tjkyt/stream6.m3u8?token=400f59705e433fdea22a70a23c0ed815
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="Yurt Disi",TRT World
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="Belgesel",TRT Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="Ciftci.tr" tvg-logo="https://i.imgur.com/CLzP4vL.png" group-title="Eglence",Ciftci TV
-https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png" group-title="Spor",TRT Spor Yildiz
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="Spor",A Spor
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-
-#EXTINF:-1 tvg-id="HTSpor.tr" tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png" group-title="Spor",HT Spor
-https://ciner-live.ercdn.net/htspor/htspor.m3u8
 
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Spor",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
@@ -222,5 +174,41 @@ https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Number1TV.tr" tvg-logo="https://i.imgur.com/02cDIBi.png" group-title="Muzik",Number 1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="Cocuk",TRT Cocuk
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trtcocukyt" tvg-name="TRT Çocuk YouTube - Rafadan Tayfa" tvg-logo="https://yt3.googleusercontent.com/6_jhTr2aolmOP8qNq24ReRalaiu8LNSX-OD4fh9wWcIALv67la_kYKHDe-2QjmGJ3GqH8UULVQ=s160-c-k-c0x00ffffff-no-rj" group-title="Çocuk",TRT Çocuk YouTube - Rafadan Tayfa
+http://87.121.104.29:1071/trtcocukyt/stream.m3u8?token=400f59705e433fdea22a70a23c0ed815
+
+#EXTINF:-1 tvg-id="neselidunyam" tvg-name="Neşeli Dünyam - Minika" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l3kNwTi1WBn4EDPvRSjt4jcNSBZ5GFzJXWhlwpk4FWSPY=s160-c-k-c0x00ffffff-no-rj" group-title="Çocuk",Neşeli Dünyam - Minika
+http://87.121.104.29:1071/neselidunyam/stream.m3u8?token=400f59705e433fdea22a70a23c0ed815
+
+#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="Cartoon Network" tvg-logo="https://img.dsmartgo.com.tr/content/c/_s/13870/Thumbnail.png" group-title="Çocuk",Cartoon Network
+https://alcaklarakaryagiyorusume.denek1544.workers.dev/channel/Q2FydG9vbiBOZXR3b3JrIHwgQQ==
+
+#EXTINF:-1 tvg-id="kralsakiryt" tvg-name="Kral Şakir 7/24" tvg-logo="https://yt3.googleusercontent.com/exMWauAdy4fF-KM0Vsx4skLEpxISvNB5G4yuHOGa0RdKSTMJby7G4k8kglgv93PlnZjyKr6U=s160-c-k-c0x00ffffff-no-rj" group-title="Çocuk",Kral Şakir 7/24
+http://87.121.104.29:1071/cartoonnyt/stream3.m3u8?token=400f59705e433fdea22a70a23c0ed815
+
+#EXTINF:-1 tvg-id="niloyayt" tvg-name="Niloya 7/24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n0YISWW6FB00uk01CGhSPulWjKSui70KBXfGCixbErQQ=s160-c-k-c0x00ffffff-no-rj" group-title="Çocuk",Niloya 7/24
+http://87.121.104.29:1071/niloyayt/stream.m3u8?token=400f59705e433fdea22a70a23c0ed815
+
+#EXTINF:-1 tvg-id="gumballyt" tvg-name="Gumball 7/24" tvg-logo="https://yt3.googleusercontent.com/DdQrQrDWi9VgQc_j9DEY4M9VfOAqpocDtO-nXa5Bee5VLlfWy7zzmM1u0jEardIBYLeKovtokQ=s160-c-k-c0x00ffffff-no-rj" group-title="Çocuk",Gumball 7/24
+http://87.121.104.29:1071/gumballyt/stream.m3u8?token=400f59705e433fdea22a70a23c0ed815
+
+#EXTINF:-1 tvg-id="minikacocuk" tvg-name="Minika Çocuk" tvg-logo="https://img.dsmartgo.com.tr/content/2/Q2/13402/Thumbnail.png" group-title="Çocuk",Minika Çocuk
+https://alcaklarakaryagiyorusume.denek1544.workers.dev/channel/TWluaWthIMOHb2N1aw==
+
+#EXTINF:-1 tvg-id="minikago" tvg-name="Minika Go" tvg-logo="https://img.dsmartgo.com.tr/content/I/WS/13404/Thumbnail.png" group-title="Çocuk",Minika Go
+https://alcaklarakaryagiyorusume.denek1544.workers.dev/channel/TWluaWthIEdv
+
+#EXTINF:-1 tvg-id="trtcocuk" tvg-name="TRT Çocuk" tvg-logo="https://img.dsmartgo.com.tr/content/L/_2/13369/Thumbnail.png" group-title="Çocuk",TRT Çocuk
+https://alcaklarakaryagiyorusume.denek1544.workers.dev/channel/VFJUIMOHb2N1aw==
+
+#EXTINF:-1 tvg-id="trtdiyanetcocuk" tvg-name="TRT Diyanet Çocuk" tvg-logo="https://yt3.googleusercontent.com/B63Iy6s7806LvjKeJZCQOdmXqp5F74QmMQmPDEHfDsTpipBrVFW4zraq4E5O3OZDYm417YhAJg=s160-c-k-c0x00ffffff-no-rj" group-title="Çocuk",TRT Diyanet Çocuk
+https://alcaklarakaryagiyorusume.denek1544.workers.dev/channel/VFJUIERpeWFuZXQgw4dvY3Vr
+
+#EXTINF:-1 tvg-id="cocuksmart" tvg-name="Çocuk Smart" tvg-logo="https://img.dsmartgo.com.tr/content/_/-b/11912/Thumbnail.png" group-title="Çocuk",Çocuk Smart
+https://alcaklarakaryagiyorusume.denek1544.workers.dev/channel/w4dvY3VrIFNtYXJ0
+
+#EXTINF:-1 tvg-id="babytv" tvg-name="Baby TV" tvg-logo="https://img.dsmartgo.com.tr/content/V/vi/11890/Thumbnail.png" group-title="Çocuk",Baby TV
+https://alcaklarakaryagiyorusume.denek1544.workers.dev/channel/QmFieSBUVg==
+
+#EXTINF:-1 tvg-id="disneyjunior" tvg-name="Disney Junior" tvg-logo="https://img.dsmartgo.com.tr/content/n/ct/22903/Thumbnail.png" group-title="Çocuk",Disney Junior
+https://alcaklarakaryagiyorusume.denek1544.workers.dev/channel/RGlzbmV5IEp1bmlvcg==
